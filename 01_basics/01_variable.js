@@ -7,6 +7,8 @@ var accountPassword = "login@123"
 accountCity="Nanded"
 // we can define variable without useing key word but we should not use without declaring key word to variable.
 let accountStatus;
+//if we keep variable without defining then it shows that variable output aas undefined.
+
 
 console.log(accountId);
 // we use console.log(); command to print output on the terminal
