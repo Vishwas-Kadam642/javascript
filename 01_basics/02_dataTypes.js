@@ -15,9 +15,12 @@ let accountLogin = true
 let state = null ;
 
 // undefined :- this datatype we see when we not declare value to variable 
-let status;
+let accountNumber;
 
 //symbol :- this datatype can contain both 1.built -in object, 2.user defined object 
 //examples for user defined objects 1.classes, 2.constractor function, 3.literals
 //examples for built -in objects 1.objects, 2.arrays, 3.dates, 4.maps, 5.sets, 6.intarrays, 7.floatarrays, 8.promises and more.
-  
+
+
+console.log(studentId)
+console.table([studentId,studentName,state,accountNumber])
