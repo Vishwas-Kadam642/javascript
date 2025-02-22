@@ -12,9 +12,9 @@ console.log(typeof score4);
 console.log(typeof score5);
 
 
-let valueNumber1 = String(score1)
+let valueNumber1 = Number(score1)
 //conversion to number 
-let valueNumber2 = Number(score2)
+let valueNumber2 = String(score2)
 let valueNumber3 = Number(score3)
 let valueNumber4 = Number(score4)
 let valueNumber5 = Number(score5)
