@@ -15,6 +15,7 @@ console.log(typeof score5);
 let valueNumber1 = Number(score1)
 //conversion to number 
 let valueNumber2 = String(score2)
+//conversion to String
 let valueNumber3 = Number(score3)
 let valueNumber4 = Number(score4)
 let valueNumber5 = Number(score5)
